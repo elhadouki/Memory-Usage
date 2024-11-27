@@ -1,0 +1,7 @@
+{
+    "uuid": "memory-usage@elhadouki",
+    "name": "Memory Usage",
+    "description": "Displays the percentage of used memory.",
+    "icon": "icon.png",
+    "max-instances": -1
+}
