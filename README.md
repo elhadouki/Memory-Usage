@@ -1,4 +1,4 @@
-# Memory Usage Applet
+# Memory Usage Applet for Cinnamon DE
 simple applet that shows percentage of used memory in panel
 ## Installation
 1. Download the applet files.
